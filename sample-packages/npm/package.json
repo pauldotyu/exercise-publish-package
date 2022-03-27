@@ -1,5 +1,5 @@
 {
-  "name": "exercise-publish-package",
+  "name": "@pauldotyu/exercise-publish-package",
   "version": "1.0.0",
   "description": "sample package",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "url": "git+https://github.com/pauldotyu/exercise-publish-package.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@pauldotyu"
+    "registry": "https://npm.pkg.github.com"
   }
 }
