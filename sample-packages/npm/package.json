@@ -1,6 +1,6 @@
 {
   "name": "@pauldotyu/exercise-publish-package",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "sample package",
   "main": "index.js",
   "scripts": {
