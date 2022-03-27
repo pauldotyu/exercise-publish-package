@@ -7,6 +7,10 @@
     "start": "node index.js",
     "deploy": "npm publish"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauldotyu/exercise-publish-package.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@pauldotyu"
   }
